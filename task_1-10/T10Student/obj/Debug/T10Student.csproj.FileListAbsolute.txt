@@ -1,0 +1,8 @@
+D:\e\study\fall22\oop\ttc8440\T10Student\bin\Debug\T10Student.exe.config
+D:\e\study\fall22\oop\ttc8440\T10Student\bin\Debug\T10Student.exe
+D:\e\study\fall22\oop\ttc8440\T10Student\bin\Debug\T10Student.pdb
+D:\e\study\fall22\oop\ttc8440\T10Student\obj\Debug\T10Student.csproj.AssemblyReference.cache
+D:\e\study\fall22\oop\ttc8440\T10Student\obj\Debug\T10Student.csproj.SuggestedBindingRedirects.cache
+D:\e\study\fall22\oop\ttc8440\T10Student\obj\Debug\T10Student.csproj.CoreCompileInputs.cache
+D:\e\study\fall22\oop\ttc8440\T10Student\obj\Debug\T10Student.exe
+D:\e\study\fall22\oop\ttc8440\T10Student\obj\Debug\T10Student.pdb

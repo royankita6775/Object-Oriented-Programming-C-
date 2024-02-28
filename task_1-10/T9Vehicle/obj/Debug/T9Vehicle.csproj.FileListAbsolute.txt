@@ -1,0 +1,8 @@
+D:\e\study\fall22\oop\ttc8440\T9Vehicle\bin\Debug\T9Vehicle.exe.config
+D:\e\study\fall22\oop\ttc8440\T9Vehicle\bin\Debug\T9Vehicle.exe
+D:\e\study\fall22\oop\ttc8440\T9Vehicle\bin\Debug\T9Vehicle.pdb
+D:\e\study\fall22\oop\ttc8440\T9Vehicle\obj\Debug\T9Vehicle.csproj.AssemblyReference.cache
+D:\e\study\fall22\oop\ttc8440\T9Vehicle\obj\Debug\T9Vehicle.csproj.SuggestedBindingRedirects.cache
+D:\e\study\fall22\oop\ttc8440\T9Vehicle\obj\Debug\T9Vehicle.csproj.CoreCompileInputs.cache
+D:\e\study\fall22\oop\ttc8440\T9Vehicle\obj\Debug\T9Vehicle.exe
+D:\e\study\fall22\oop\ttc8440\T9Vehicle\obj\Debug\T9Vehicle.pdb

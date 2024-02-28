@@ -1,0 +1,8 @@
+C:\Users\Ankita Roy\OneDrive - JAMK\JAMK\2nd year - 1st semester\Object Oriented Programming\ttc8440\task_21-30\task-28\bin\Debug\task-28.exe.config
+C:\Users\Ankita Roy\OneDrive - JAMK\JAMK\2nd year - 1st semester\Object Oriented Programming\ttc8440\task_21-30\task-28\bin\Debug\task-28.exe
+C:\Users\Ankita Roy\OneDrive - JAMK\JAMK\2nd year - 1st semester\Object Oriented Programming\ttc8440\task_21-30\task-28\bin\Debug\task-28.pdb
+C:\Users\Ankita Roy\OneDrive - JAMK\JAMK\2nd year - 1st semester\Object Oriented Programming\ttc8440\task_21-30\task-28\obj\Debug\task-28.csproj.AssemblyReference.cache
+C:\Users\Ankita Roy\OneDrive - JAMK\JAMK\2nd year - 1st semester\Object Oriented Programming\ttc8440\task_21-30\task-28\obj\Debug\task-28.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ankita Roy\OneDrive - JAMK\JAMK\2nd year - 1st semester\Object Oriented Programming\ttc8440\task_21-30\task-28\obj\Debug\task-28.csproj.CoreCompileInputs.cache
+C:\Users\Ankita Roy\OneDrive - JAMK\JAMK\2nd year - 1st semester\Object Oriented Programming\ttc8440\task_21-30\task-28\obj\Debug\task-28.exe
+C:\Users\Ankita Roy\OneDrive - JAMK\JAMK\2nd year - 1st semester\Object Oriented Programming\ttc8440\task_21-30\task-28\obj\Debug\task-28.pdb

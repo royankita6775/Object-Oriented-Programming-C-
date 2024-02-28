@@ -1,0 +1,8 @@
+D:\e\study\fall22\oop\ttc8440\T7WashingMachine\bin\Debug\T7WashingMachine.exe.config
+D:\e\study\fall22\oop\ttc8440\T7WashingMachine\bin\Debug\T7WashingMachine.exe
+D:\e\study\fall22\oop\ttc8440\T7WashingMachine\bin\Debug\T7WashingMachine.pdb
+D:\e\study\fall22\oop\ttc8440\T7WashingMachine\obj\Debug\T7WashingMachine.csproj.AssemblyReference.cache
+D:\e\study\fall22\oop\ttc8440\T7WashingMachine\obj\Debug\T7WashingMachine.csproj.SuggestedBindingRedirects.cache
+D:\e\study\fall22\oop\ttc8440\T7WashingMachine\obj\Debug\T7WashingMachine.csproj.CoreCompileInputs.cache
+D:\e\study\fall22\oop\ttc8440\T7WashingMachine\obj\Debug\T7WashingMachine.exe
+D:\e\study\fall22\oop\ttc8440\T7WashingMachine\obj\Debug\T7WashingMachine.pdb

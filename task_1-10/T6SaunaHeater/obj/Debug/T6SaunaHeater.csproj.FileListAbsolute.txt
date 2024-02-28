@@ -1,0 +1,8 @@
+D:\e\study\fall22\oop\ttc8440\T6SaunaHeater\bin\Debug\T6SaunaHeater.exe.config
+D:\e\study\fall22\oop\ttc8440\T6SaunaHeater\bin\Debug\T6SaunaHeater.exe
+D:\e\study\fall22\oop\ttc8440\T6SaunaHeater\bin\Debug\T6SaunaHeater.pdb
+D:\e\study\fall22\oop\ttc8440\T6SaunaHeater\obj\Debug\T6SaunaHeater.csproj.AssemblyReference.cache
+D:\e\study\fall22\oop\ttc8440\T6SaunaHeater\obj\Debug\T6SaunaHeater.csproj.SuggestedBindingRedirects.cache
+D:\e\study\fall22\oop\ttc8440\T6SaunaHeater\obj\Debug\T6SaunaHeater.csproj.CoreCompileInputs.cache
+D:\e\study\fall22\oop\ttc8440\T6SaunaHeater\obj\Debug\T6SaunaHeater.exe
+D:\e\study\fall22\oop\ttc8440\T6SaunaHeater\obj\Debug\T6SaunaHeater.pdb
